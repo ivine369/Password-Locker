@@ -1,6 +1,6 @@
 # PASSWORD-LOCKER
 
-This is an appllication that enables one to generate and manage new passwords.
+This is an application that enables one to generate and manage new passwords.
 
 ## By Ivine Kemuma
 
