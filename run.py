@@ -14,23 +14,9 @@ def save_users(user):
 
     user.save_user()
 ##Delete users
+    def del_user()
 
-
-def del_user(user):
-
-    user.delete_user()
-##Find users
-
-
-def find_user(name):
-
-    return User.find_by_name(name)
-##Check if a user exists
-
-
-def check_existing_users(name):
-
-    return User.user_exist(name)
+    
 ##Displaying all users
 
 
@@ -113,7 +99,7 @@ def main():
                                         print("Enter the password")
                                         u_name = input()
 
-                                        
+
 
                     elif short_code == 'fu':
 
