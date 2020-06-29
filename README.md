@@ -30,7 +30,7 @@ In case you find any bugs contact me at ivinekemuma014@gmail.com
 
 ### LIcense
 
-*{MIT License
+ MIT License
 
 Copyright (c) [2020] [Ivine Kemuma Ondieki]
 
