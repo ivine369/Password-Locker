@@ -12,7 +12,7 @@ This is an application that enables a person to have at least 7 different accoun
 
 *Git clone https://github.com/ivine369/Password-Locker.git
 
-*cd Passwotrd-Locker
+*cd Password-Locker
 
 *Python 3.6 run.py
 
