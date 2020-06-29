@@ -18,7 +18,7 @@ This is an application that enables a person to have at least 7 different accoun
 
 ### Known Bugs
 
-As per now there are no prooblems but in case you find any,feel free to email me at ivinekemuma014@gmail.com
+As per now there are no problems but in case you find any,feel free to email me at ivinekemuma014@gmail.com
 
 ### Technologies Used
 
