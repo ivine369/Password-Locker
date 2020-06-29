@@ -6,9 +6,9 @@ This is an application that enables one to generate and manage new passwords.
 
 ### Description
 
-This is an application that a person has at least 7 different accounts signed into,and is also responisble of storing the passwords.
+This is an application that enables a person to have at least 7 different accounts signed into,and is also responisble of storing the passwords.
 
-### Setup/Installlation Requirements
+### Setup/Installation Requirements
 
 *Git clone https://github.com/ivine369/Password-Locker.git
 
