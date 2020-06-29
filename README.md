@@ -26,7 +26,7 @@ PYthon 3.6
 
 ### Supoort and Contact details
 
-In case you find any bugs contact me at ivinekemuma014@gmail.com
+In case you find any bugs,contact me at ivinekemuma014@gmail.com
 
 ### LIcense
 
