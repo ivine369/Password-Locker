@@ -84,6 +84,8 @@ def main():
                             # create and save new contact.
                             save_users(create_user(
                                 f_name, l_name, p_name, u_name))
+
+
                             print('\n')
                             print(f"New User {f_name} {l_name} created")
                             print('\n')
@@ -110,6 +112,8 @@ def main():
                                         Use these short codes to get around''')
                                         print("Enter the password")
                                         u_name = input()
+
+                                        
 
                     elif short_code == 'fu':
 
